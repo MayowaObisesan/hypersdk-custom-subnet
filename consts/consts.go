@@ -13,11 +13,11 @@ import (
 
 const (
 	// TODO: choose a human-readable part for your hyperchain
-	HRP = ""
+	HRP = "mayowa-hypersdk"
 	// TODO: choose a name for your hyperchain
-	Name = ""
+	Name = "BHYPERCHAIN"
 	// TODO: choose a token symbol
-	Symbol = ""
+	Symbol = "BHYP"
 )
 
 var ID ids.ID
